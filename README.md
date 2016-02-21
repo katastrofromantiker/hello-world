@@ -1,2 +1,2 @@
-# hello-world
-Hejhopp repository
+# hello-world =)
+
